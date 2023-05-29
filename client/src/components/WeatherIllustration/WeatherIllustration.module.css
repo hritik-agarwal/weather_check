@@ -1,0 +1,12 @@
+.weatherIllustration {
+  width: 80%;
+  max-width: 400px;
+  aspect-ratio: 1;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.weatherIllustration img {
+  width: 100%;
+  height: 100%;
+}

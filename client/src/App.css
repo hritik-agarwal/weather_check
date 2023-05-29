@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1e1f23;
+}
+
+.container {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  min-height: 100vh;
+}
+
+.header {
+  color: white;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.weatherDetailBox {
+  color: white;
+  width: 100%;
+  max-width: 1000px;
+  margin: 50px auto 0;
+}

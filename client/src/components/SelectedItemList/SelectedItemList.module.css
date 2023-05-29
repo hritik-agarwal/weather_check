@@ -1,0 +1,18 @@
+.selectedCitiesBox {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px 0;
+  margin-bottom: 20px;
+}
+
+.selectedCity {
+  color: white;
+  font-size: 1.2rem;
+  background-color: #334849;
+  border: 1px solid white;
+  padding: 10px 15px;
+  margin-right: 5px;
+  border-radius: 20px;
+  cursor: pointer;
+}
