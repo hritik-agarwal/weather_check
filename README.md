@@ -25,7 +25,6 @@ https://api.postman.com/collections/25139606-ea1a954c-ab27-4521-9c94-ccca0b409da
         - It gives next 7 days weather.
         - Use it here : ```https://weather-check-backend.onrender.com/api/weather?lat=<lat>&lon=<lon>```
 
-
 ## To run in Local
 
 1. Clone the repo & run ```npm install``` in client and server folder.
@@ -33,3 +32,11 @@ https://api.postman.com/collections/25139606-ea1a954c-ab27-4521-9c94-ccca0b409da
 3. In .env of server, add ```OPEN_WEATHER_API_KEY=<your_api_key>```
 4. In .env of client, add ```REACT_APP_INTERNAL_API_PATH=<your_backend_server_path>```
 5. Run ```npm start``` in client and server in seperate terminal.
+
+## Screenshots
+
+<div>
+    <img src="https://drive.google.com/uc?export=view&id=1f8UKvPIu888j7TrfVCDDP-bZICjgytDY" height="450"  />
+    <img src="https://drive.google.com/uc?export=view&id=1sPPNBGZ9NDWiaxR2otqL7e4RD3Ya7clX" height="450" />
+ </div>
+<img src="https://drive.google.com/uc?export=view&id=15f4QZQuehkAq-hQU_kZOGHyaypxuPWf_" width="1000" />
