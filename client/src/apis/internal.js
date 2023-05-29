@@ -4,8 +4,6 @@ const api = axios.create({
   baseURL: process.env.REACT_APP_INTERNAL_API_PATH,
 })
 
-const fetchWeatherData = cities => {}
-
 export const fetchCitySuggestion = async city => {
   let response
   try {
