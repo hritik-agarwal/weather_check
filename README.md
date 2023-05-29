@@ -10,6 +10,10 @@
 
 [https://weatherweek.netlify.app/](https://weatherweek.netlify.app/) ↗️
 
+## Postman Collection
+
+https://api.postman.com/collections/25139606-ea1a954c-ab27-4521-9c94-ccca0b409daf?access_key=PMAT-01H1M979MRX9NA89P820B71M8E
+
 ## APIs Description
 
 - It uses api from https://openweathermap.org/ under the hood to fetch location and weather details.
